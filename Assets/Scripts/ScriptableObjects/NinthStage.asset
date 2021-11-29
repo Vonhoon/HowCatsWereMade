@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f489e243d97496bbc0f07941f3fd0d, type: 3}
+  m_Name: NinthStage
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\uD070\uC77C\uB0AC\uC5B4\uC694!"
+  - "\uC77C\uC774 \uC11C\uD234\uC740 \uC5B4\uB5A4 \uBD84\uC774 \uC6B0\uB9AC \uD589\uC131\uC5D0"
+  - "\uD070 \uB3CC\uC744 \uBA87 \uAC1C\uB098 \uB0A0\uB824\uBC84\uB838\uC9C0 \uBB50\uC608\uC694."
+  - "\uACF3\uACF3\uC5D0 \uD130\uC9C4 \uBD88\uB369\uC774\uB4E4 \uB54C\uBB38\uC5D0"
+  - "\uC9C4\uD654\uC758 \uD55C 1\uC5B5\uB144\uC744 \uC783\uC5B4\uBC84\uB9B4 \uC218\uB3C4
+    \uC788\uACA0\uB124\uC694..."
+  - "\uD558\uC9C0\uB9CC \uC544\uC9C1 \uD76C\uB9DD\uC740 \uC788\uC5B4\uC694"
+  - "\uBAB8\uC9D1\uC774 \uC791\uC740 \uCE5C\uAD6C\uB4E4\uB9CC\uC774\uB77C\uB3C4 \uCD5C\uB300\uD55C
+    \uC0B4\uB824\uBCF4\uC138\uC694"
+  - "\uD798\uB0B4\uC138\uC694!"
+  dialoguesEN:
+  - OMG!
+  - Some noob just hurled a couple of giant rocks at our planet
+  - I know it's a mistake and everyone makes mistakes but...
+  - The explosion it caused is so bad,
+  - it will setback our progress by a billion year...
+  - But don't give up, we still have hope.
+  - Try to save as many smaller folks as possible
+  - They have better chance to survive!

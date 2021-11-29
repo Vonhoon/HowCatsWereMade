@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f489e243d97496bbc0f07941f3fd0d, type: 3}
+  m_Name: FinalStage
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\uC798\uD558\uC168\uC5B4\uC694!"
+  - "\uC544\uC27D\uC9C0\uB9CC \uD070 \uB3D9\uBB3C\uB4E4\uC774 \uD655 \uC904\uC5C8\uB124\uC694"
+  - "\uC0C8\uB4E4\uC740 \uC0B4\uC544\uB0A8\uC740 \uAC83 \uAC19\uACE0"
+  - "\uADF8 \uBD84\uC5D0\uAC8C\uB294 \uC81C\uAC00 \uB2E8\uB2E8\uD788 \uC8FC\uC758\uB97C
+    \uC8FC\uC5C8\uC73C\uB2C8 \uC55E\uC73C\uB85C \uC774\uB7F0 \uC77C\uC740 \uC5C6\uACA0\uC8E0."
+  - "\uADF8\uB098\uC800\uB098... \uC800 \uAC00\uC8FD\uC744 \uB450\uB978 \uACF5\uACA9\uC801\uC778
+    \uC0DD\uBB3C\uC740 \uCC38 \uC2EB\uB124\uC694"
+  - "\uC6B0\uB9AC \uADC0\uC5EC\uC6B4 \uC0B4\uCFA1\uC774\uB97C \uAC00\uB450\uC5B4
+    \uB450\uACE0 \uC8FD\uC774\uB824 \uD558\uACE0 \uC788\uC5B4\uC694!"
+  - "\uB2F9\uC2E0\uC758 \uB3C4\uC6C0\uC774 \uD544\uC694\uD574\uC694."
+  - "\uC800 \uACF5\uACA9\uC801\uC778 \uC0DD\uBB3C\uB4E4\uC774 \uBC88\uC2DD\uD55C\uB2E4\uBA74
+    \uC774 \uC138\uACC4\uB294 "
+  - "\uC5B4\uCC0C\uB420\uC9C0 \uAC71\uC815\uC774\uB124\uC694."
+  dialoguesEN:
+  - Great job! It's shame that the big ones are gone now.
+  - But still we have small ones and those flying creatures.
+  - I've scolded the noob enough so... I hope it won't happen again
+  - Anyhow... you see that aggressive looking creature, wrap around in leather?
+  - That thing has confined our cute wildcat
+  - and even trying to kill one right now!
+  - They need your HELP!
+  - I don't know what will happen to this world
+  - if those aggressive creatures over populate in this world...

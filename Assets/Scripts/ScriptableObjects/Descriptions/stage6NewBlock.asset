@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f489e243d97496bbc0f07941f3fd0d, type: 3}
+  m_Name: stage6NewBlock
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\uC0C8\uB85C\uC6B4 \uBE14\uB85D \uB4F1\uC7A5!"
+  - "\uBB34\uC911\uB825 \uBE14\uB85D"
+  - "\uC911\uB825\uC744 \uBB34\uC2DC\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4"
+  dialoguesEN:
+  - BRAND NEW TILE!
+  - Zero Gravity tile
+  - Ignore gravity!

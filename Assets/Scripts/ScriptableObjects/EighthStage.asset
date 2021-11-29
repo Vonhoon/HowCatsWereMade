@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f489e243d97496bbc0f07941f3fd0d, type: 3}
+  m_Name: EighthStage
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\uC11C\uB85C \uB9CC\uB0A0 \uAE38\uC774 \uC548\uBCF4\uC774\uB294 \uAC83 \uAC19\uC740\uB370..."
+  - "\uC544\uBB34\uB798\uB3C4 \uD0C0\uC774\uBC0D \uC2F8\uC6C0\uC774 \uB420 \uAC83
+    \uAC19\uB124\uC694"
+  - "\uC774\uC81C\uC640\uC11C \uB9D0\uD558\uB294 \uAC70\uC9C0\uB9CC"
+  - "\uC0AC\uC2E4 \uD50C\uB808\uC774 \uBC84\uD2BC\uC744 \uB204\uB974\uACE0 \uB098\uC11C\uB3C4"
+  - "\uBE14\uB85D\uC744 \uC6C0\uC9C1\uC77C \uC218 \uC788\uB2F5\uB2C8\uB2E4."
+  - "\uC2E4\uC2DC\uAC04\uC73C\uB85C \uC870\uC791\uC744 \uD558\uB294 \uAC70\uC8E0."
+  - "\uC54C\uACE0 \uC788\uC5C8\uB2E4\uACE0\uC694!?"
+  - "\uADF8\uB7FC \uC774\uBC88\uC5D0\uB3C4 \uB450 \uC0DD\uBA85\uCCB4\uB97C \uC9C4\uD654\uC2DC\uD0A4\uB294\uB370
+    \uBB38\uC81C\uAC00 \uC5C6\uACA0\uAD70\uC694!"
+  dialoguesEN:
+  - It doesn't seem like there are any easy solution to this...
+  - I think it will be a matter of timing.
+  - Now that I think about it...
+  - Did you know that you can
+  - move the tile around even after
+  - you press the Play Button?
+  - What... YOU KNEW?
+  - OK, then this should be a piece of cake.

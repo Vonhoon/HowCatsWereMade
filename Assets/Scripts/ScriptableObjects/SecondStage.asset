@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f489e243d97496bbc0f07941f3fd0d, type: 3}
+  m_Name: SecondStage
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\uC815\uB9D0 \uBA4B\uC9D1\uB2C8\uB2E4! \uC720\uD76C\uAC00 \uAE30\uC801\uC774
+    \uB41C \uC21C\uAC04\uC774\uAD70\uC694."
+  - "\uC800 \uC791\uACE0 \uADC0\uC5EC\uC6B4 \uAC83\uB4E4\uC774 \uC6B0\uB9AC\uCC98\uB7FC
+    \uC0B4\uC544 \uC6C0\uC9C1\uC774\uB294 \uAC78 \uBD24\uB098\uC694?"
+  - "\uBAA8\uC591\uB3C4 \uC870\uAE08\uC740 \uBC14\uB00C\uC5C8\uAD70\uC694. \uC9C0\uAE08\uC774
+    \uD655\uC2E4\uD788 \uB354 \uB0AB\uB124\uC694."
+  - "\uD750\uBB3C\uD750\uBB3C~! \uADC0\uC5EC\uC6CC~~~!"
+  - "\uC790, \uC774\uC81C \uB2E4\uB978 \uB2A5\uB825\uC744 \uC368\uBCFC\uAE4C\uC694?"
+  - "\uC2DC\uAC04\uC744 \uC9C0\uBC30\uD558\uB294 \uC790!!!"
+  - "...\uAC19\uC740 \uAC70\uCC3D\uD55C \uAC74 \uC544\uB2C8\uACE0 \uADF8\uB0E5 GO!
+    \uBC84\uD2BC\uC785\uB2C8\uB2E4."
+  - "\uB108\uBB34 \uC2E4\uB9DD\uD558\uC9C4 \uB9C8\uC2DC\uACE0\uC694. \uB9C8\uCE68
+    \uC0C8\uB85C\uC6B4 \uBE14\uB7ED\uB3C4 \uC788\uAD70\uC694."
+  - "\uBB54\uAC00 \uC798 \uD1B5\uACFC\uD560 \uAC83\uCC98\uB7FC \uC0DD\uAE30\uC9C0
+    \uC54A\uC558\uB098\uC694? \uC774\uB7F0 \uC608\uAC10\uC740 \uD2C0\uB9AC\uC9C0
+    \uC54A\uB294 \uBC95\uC774\uB78D\uB2C8\uB2E4."
+  - "\uC0C8\uB85C\uC6B4 \uBE14\uB85D\uC744 \uB2E8\uC138\uD3EC\uC0DD\uBB3C \uBE14\uB85D\uACFC
+    \uC5F0\uACB0\uD574 \uBCF8\uB2E4\uBA74, \uB610\uB2E4\uC2DC \uC7AC\uBBF8\uC788\uB294
+    \uB9CC\uB0A8\uC774 \uC6B0\uB9B4 \uAE30\uB2E4\uB9B4 \uAC81\uB2C8\uB2E4!"
+  dialoguesEN:
+  - AMAZING! That's almost like a miracle
+  - These cells... made from dirt?
+  - They are wiggly and So CUTE!
+  - But they still can't move in directions without YOUR help.
+  - Let's try using a different ability.
+  - SPACE-TIME MANIPULATION!
+  - ... sorry, I'm just kidding.
+  - It's just a Play button.
+  - And... We got a new tile to play around with!
+  - HAVE FUN!

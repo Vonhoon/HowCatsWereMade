@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f489e243d97496bbc0f07941f3fd0d, type: 3}
+  m_Name: FifthStage
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\uC5C4\uCCAD \uB2E4\uC591\uD55C \uC0DD\uBB3C\uB4E4\uC774 \uC0DD\uACA8 \uB098\uACE0
+    \uC788\uC5B4\uC694"
+  - "\uC774\uB300\uB85C \uACC4\uC18D \uAC04\uB2E4\uBA74"
+  - "\uC5B4\uB5A4 \uC0DD\uBA85\uC774 \uD0DC\uC5B4\uB0A0 \uC9C0 \uB108\uBB34\uB098
+    \uAD81\uAE08\uD574\uC9C0\uB124\uC694"
+  - "\uC758\uB3C4\uCE58 \uC54A\uC740 \uC0C8\uB85C\uC6B4 \uC9C8\uC11C\uAC00 \uC0DD\uACA8\uB098\uB294
+    \uAC83 \uAC19\uB124\uC694"
+  - "\uB204\uAD70 \uBA39\uD788\uACE0 \uB204\uAD70 \uBA39\uACE0..."
+  dialoguesEN:
+  - So many new creatures!
+  - I wonder what kind of creatures
+  - we will be able to create!
+  - There seems to be some sort of cycle of life
+  - going on here...

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2f489e243d97496bbc0f07941f3fd0d, type: 3}
+  m_Name: FourthStage
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\uC798\uD558\uC168\uC2B5\uB2C8\uB2E4! \uC774\uC81C \uB354\uC6B1 \uB2E4\uC591\uD55C
+    \uC544\uC774\uB4E4\uC774 \uC0DD\uACA8\uB098\uACE0 \uC788\uAD70\uC694!"
+  - "...... \uC544\uB2C8! \uC774\uAC83\uC740!"
+  - "\uC5C4\uCCAD\uB098\uAD70\uC694! \uBA40\uB9AC\uC11C\uB3C4 \uBB3C\uCCB4\uC758
+    \uC815\uCCB4\uB97C \uC54C \uC218 \uC788\uB294 \uB2A5\uB825\uC774\uB77C\uB2C8!"
+  - "\uC138\uC0C1\uC744 \"\uBCF4\uB294\" \uB290\uB08C\uC774 \uC644\uC804 \uB2EC\uB77C\uC84C\uACA0\uB124\uC694."
+  - "\uC0C8\uB85C\uC6B4 \uB2A5\uB825, \uC0C8\uB85C\uC6B4 \uBE14\uB85D\uACFC \uD568\uAED8
+    \uC0C8\uB85C\uC6B4 \uC138\uC0C1\uC744 \uB9CC\uB4E4\uC5B4\uBD10\uC694"
+  - "\uD639\uC2DC \uBC8C\uC368 \uC54C\uC544\uCC58\uC744 \uC218\uB3C4 \uC788\uB294\uB370,
+    GO\uBC84\uD2BC\uC744 \uB204\uB978 \uD6C4\uC5D0\uB3C4 \uBE14\uB85D\uC744 \uC6C0\uC9C1\uC77C
+    \uC218 \uC788\uC5B4\uC694."
+  dialoguesEN:
+  - Great Job! Look at the creations you made!
+  - ... Wait, WHAT??
+  - It seems we can give them new abilities with our new tile!
+  - It will be a whole new "PERSPECTIVE" for our creations!
+  - Oh, and one advice. You can manipulate tiles even *AFTER* play button press.
+    Make use of that!
